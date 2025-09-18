@@ -1,0 +1,19 @@
+>> For 1st time need to configure github in
+ git config --global user.name "YashVD18"
+ git config --global user.email "yashvd2006@gmail.com"
+
+ git config --global color.ui auto
+
+ Mandatory Commands
+ >> git init
+ >> git remote add origin https://github.com/YashVD18/GitDemo.git
+
+ 
+ git pull origin main
+ git status
+
+ git add.
+ git status
+ git commit -m "Commit Message"
+ git push
+ 
